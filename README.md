@@ -1,6 +1,6 @@
 # zhihu
 
-> vue-cli 简单的demo  
+> vue-cli 简单的demo  [预览](http://act.cqnews.net/zhihu)
 
 ## Build Setup
 
