@@ -1,6 +1,6 @@
 # zhihu
 
-> A Vue.js project
+> vue-cli 简单的demo  
 
 ## Build Setup
 
